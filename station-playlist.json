@@ -1,0 +1,57 @@
+{
+  "schedules": [
+    {
+      "startAt": "2026-11-22T20:17:12.639Z",
+      "tracks": [
+        {
+          "title": "Message 1",
+          "speaker": "Grace Radio",
+          "url": "https://res.cloudinary.com/dcmcezlkd/video/upload/v1791505755/Take_the_Name_of_Jesus_With_You_-_Lyrics_sjkovz.mp3",
+          "durationSeconds": 165.186757
+        },
+        {
+          "title": "Message 2",
+          "speaker": "Grace Radio",
+          "url": "https://res.cloudinary.com/dcmcezlkd/video/upload/v1791505547/Most_Ancient_of_All_Mysteries_dehwbl.mp3",
+          "durationSeconds": 208.143673
+        },
+        {
+          "title": "Message 3",
+          "speaker": "Grace Radio",
+          "url": "https://res.cloudinary.com/dcmcezlkd/video/upload/v1791504853/Nearer_My_God_to_Thee_anbovx.mp3",
+          "durationSeconds": 228.623673
+        },
+        {
+          "title": "Message 4",
+          "speaker": "Grace Radio",
+          "url": "https://res.cloudinary.com/dcmcezlkd/video/upload/v1791503576/O_God_Our_Help_in_Ages_Past_tii2ug.mp3",
+          "durationSeconds": 168.507211
+        },
+        {
+          "title": "Message 5",
+          "speaker": "Grace Radio",
+          "url": "https://res.cloudinary.com/dcmcezlkd/video/upload/v1791502307/Yield_Not_to_Temptation_gw8ihg.mp3",
+          "durationSeconds": 166.626395
+        },
+        {
+          "title": "Message 6",
+          "speaker": "Grace Radio",
+          "url": "https://res.cloudinary.com/dcmcezlkd/video/upload/v1791499089/Stand_Up_Stand_Up_for_Jesus_mahdqa.mp3",
+          "durationSeconds": 174.660499
+        },
+        {
+          "title": "Message 7",
+          "speaker": "Grace Radio",
+          "url": "https://res.cloudinary.com/dcmcezlkd/video/upload/v1791499221/Standing_On_The_Promises_k9u400.mp3",
+          "durationSeconds": 172.175964
+        },
+        {
+          "title": "Message 8",
+          "speaker": "Grace Radio",
+          "url": "https://res.cloudinary.com/dcmcezlkd/video/upload/v1791499221/Standing_On_The_Promises_k9u400.mp3",
+          "durationSeconds": 172.175964
+        }
+      ]
+    }
+  ]
+}
